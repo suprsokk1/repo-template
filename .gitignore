@@ -1,0 +1,37 @@
+
+### C/C++
+*.c
+
+### Emacs lisp
+*.elc
+.yas-compiled-snippets.el
+
+### python
+__pycache__/
+*.py[cod]
+*$py.class
+
+### archives
+*.bz2
+*.gpkg.tar
+*.gtar
+*.gz
+*.mgz
+*.svg
+*.svgz
+*.tar
+*.td
+*.tga
+*.tgz
+*.ustar
+
+### split / csplit output files
+xx??
+
+### backups
+*~
+\#*
+
+### other
+*.log
+a.out
